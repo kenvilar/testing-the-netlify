@@ -1,0 +1,13 @@
+{
+    "name": "kenvilar/testing-the-netlify",
+    "description": "Testing the netlify",
+    "authors": [
+        {
+            "name": "Ken Vilar",
+            "email": "kenvilar@gmail.com"
+        }
+    ],
+    "require": {
+        "tightenco/jigsaw": "^1.2"
+    }
+}
