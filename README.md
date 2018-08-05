@@ -1,5 +1,6 @@
-Build command: ./vendor/bin/jigsaw build production		
+CD Test Settings
+================
 
-Publish directory: build_production		
-
-PHP_VERSION: 7.2		
+Build command: ./vendor/bin/jigsaw build production     
+Publish directory: build_production     
+PHP_VERSION: 7.2        
